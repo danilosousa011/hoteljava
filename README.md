@@ -1,12 +1,12 @@
-# 🏨 Sistema de Hotel em Java
+ Sistema de Hotel em Java
 
 Projeto desenvolvido em **Java puro** com o objetivo de praticar os conceitos fundamentais da linguagem e da Programação Orientada a Objetos (POO).
 
 O sistema simula o gerenciamento básico de um hotel, permitindo visualizar quartos, cadastrar reservas e gerenciar informações dos hóspedes através de um menu no terminal.
 
----
 
-## 🚀 Funcionalidades
+
+ Funcionalidades
 
 - Listar quartos disponíveis
 - Cadastrar hóspedes
@@ -25,9 +25,9 @@ O sistema simula o gerenciamento básico de um hotel, permitindo visualizar quar
 - Classes e Objetos
 - Encapsulamento
 
----
 
-## 📂 Estrutura do projeto
+
+ Estrutura do projeto
 
 ```text
 HotelJava/
@@ -42,7 +42,7 @@ HotelJava/
 
 ---
 
-## 📚 Conceitos praticados
+ Conceitos praticados
 
 - Classes e Objetos
 - Encapsulamento
@@ -53,7 +53,7 @@ HotelJava/
 
 ---
 
-## ▶️ Como executar
+ Como executar
 
 1. Clone este repositório:
 
@@ -79,9 +79,7 @@ javac *.java
 java Main
 ```
 
----
-
-## 🎯 Objetivo
+  Objetivo
 
 Este projeto foi desenvolvido para fortalecer os conhecimentos em Java, lógica
 ```
